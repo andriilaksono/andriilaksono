@@ -19,7 +19,7 @@
    - Successfully completed a project-based internship focused on data science in real business contexts
    - Explored and applied concepts such as Big Data, Deep Learning, and Soft Skills in a collaborative environment
    - Delivered data-driven insights to support decision-making in the field of risk and analytics
-#### 2. [British Airways Data Science Job Simulation on Forage](https://github.com/andriilaksono/British-Airways-Data-Science-Job-Simulation-on-Forage) | `January 2025`
+#### 2. [British Airways Data Science Job Simulation on Forage](https://github.com/andriilaksono/British-Airways-Data-Science-Job-Simulation-on-Forage) | ` December 2024 to January 2025`
    - Completed a simulation focusing on how data science is a critical component of British Airways success
    - Scraped and analyzed customer review data to uncover findings
    - Built a predictive model to understand factors that influence buying behavior.
