@@ -23,6 +23,12 @@
    - Completed a simulation focusing on how data science is a critical component of British Airways success
    - Scraped and analyzed customer review data to uncover findings
    - Built a predictive model to understand factors that influence buying behavior.
+### 3. [IBM Granite Data Classification & Summarization Project](https://github.com/andriilaksono/IMB-Granite-Data-Classification-Summirzation) | ` 26 & 28 August2025`
+   - Developed a text analytics project using **IBM Granite** to classify and summarize consumer complaints in the financial sector.
+   - Conducted **data cleaning** on more than 3 million complaint records, including text normalization and duplicate removal.
+   - Applied **Logistic Regression, Random Forest, and IBM Granite (LLM)** to classify product categories and main issues.
+   - Built visualizations of yearly complaint trends, product categories with the highest complaint volume, and keyword word clouds.
+   - Delivered insights highlighting that most complaints were related to credit card products (hidden fees & interest rates), and provided policy recommendations for regulators and financial companies.
 ---
 
 ### Languages and Tools:
