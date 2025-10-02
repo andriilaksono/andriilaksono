@@ -36,7 +36,7 @@
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
 <img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />
-<img align="left" alt="Tableau" width="50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstreamlit.io%2Fbrand&psig=AOvVaw0cSMMObwoH6WindITPKgGU&ust=1759501237607000&source=images&cd=vfe&opi=89978449&ved=0CBkQ3YkBahcKEwjorv-C24WQAxUAAAAAHQAAAAAQBA" />
+<img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" />
 
 <br />
 <br />
