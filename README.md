@@ -15,15 +15,24 @@
   
 
 ## Projects Experience:
-#### 1. [ID/X Partners Data Scientist Internship](https://github.com/andriilaksono/Virtual-Internship-Data-Scientist-Rakamin-IDX-Partners-) | `February to March 2025`
+#### [Multimodal Fake News Detection using Deep Learning](https://github.com/reynaldaryansyah25/multimodal-hoax-detection.git) | `October 2025`
+   - Awarded 2nd Runner-Up in an AI Research / Data Mining Competition
+   - Designed and developed an end-to-end multimodal deep learning system to classify political news using text, image, and audio
+   - Utilized transformer and CNN architectures including IndoBERT, MobileNetV3-Small, and Wav2Vec2
+   - Implemented pseudo-labeling with a semi-supervised approach to expand labeled datasets
+   - Built late-fusion models to improve prediction robustness
+   - Achieved 96% accuracy and 95.72% multimodal accuracy
+   - Evaluated performance using Precision, Recall, F1-score, and Confusion Matrix
+
+#### [ID/X Partners Data Scientist Internship](https://github.com/andriilaksono/Virtual-Internship-Data-Scientist-Rakamin-IDX-Partners-) | `February to March 2025`
    - Successfully completed a project-based internship focused on data science in real business contexts
    - Explored and applied concepts such as Big Data, Deep Learning, and Soft Skills in a collaborative environment
    - Delivered data-driven insights to support decision-making in the field of risk and analytics
-#### 2. [British Airways Data Science Job Simulation on Forage](https://github.com/andriilaksono/British-Airways-Data-Science-Job-Simulation-on-Forage) | ` December 2024 to January 2025`
+#### [British Airways Data Science Job Simulation on Forage](https://github.com/andriilaksono/British-Airways-Data-Science-Job-Simulation-on-Forage) | ` December 2024 to January 2025`
    - Completed a simulation focusing on how data science is a critical component of British Airways success
    - Scraped and analyzed customer review data to uncover findings
    - Built a predictive model to understand factors that influence buying behavior.
-### 3. [IBM Granite Data Classification & Summarization Project](https://github.com/andriilaksono/IMB-Granite-Data-Classification-Summirzation) | ` 26 & 28 August2025`
+### [IBM Granite Data Classification & Summarization Project](https://github.com/andriilaksono/IMB-Granite-Data-Classification-Summirzation) | ` 26 & 28 August2025`
    - Developed a text analytics project using **IBM Granite** to classify and summarize consumer complaints in the financial sector.
    - Conducted **data cleaning** on more than 3 million complaint records, including text normalization and duplicate removal.
    - Applied **Logistic Regression, Random Forest, and IBM Granite (LLM)** to classify product categories and main issues.
