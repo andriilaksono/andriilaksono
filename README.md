@@ -24,7 +24,7 @@
    - Achieved 96% accuracy and 95.72% multimodal accuracy
    - Evaluated performance using Precision, Recall, F1-score, and Confusion Matrix
 
-#### [redictive Maintenance: RUL Prediction for Turbofan Engine using XGBoost](https://github.com/andriilaksono/predictive-maintenance-turbofan-rul.git) | `January 2025`
+#### [Predictive Maintenance: RUL Prediction for Turbofan Engine using XGBoost](https://github.com/andriilaksono/predictive-maintenance-turbofan-rul.git) | `January 2025`
    - Based on Final Project (Big Data & Data Mining – Universitas Amikom Yogyakarta)
    - Utilized NASA C-MAPSS (FD001) dataset containing multivariate time-series sensor data from 100 engine units
    - Performed end-to-end data pipeline including preprocessing, RUL labeling, normalization, and feature engineering
