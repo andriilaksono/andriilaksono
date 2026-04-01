@@ -57,7 +57,7 @@ Achieved performance metrics: MAE (22.83), RMSE (32.09), and R² (0.77), indicat
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
 <img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />
 <img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" />
-<img align="left" alt="Pytorch" width="50px" src="https://helmysatria.com/mengenal-pytorch/" />
+<img align="left" alt="PyTorch" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" style="padding-right:10px;" />
 
 
 <br />
