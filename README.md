@@ -15,7 +15,7 @@
   
 
 ## Projects Experience:
-#### [Multimodal Fake News Detection using Deep Learning](https://github.com/reynaldaryansyah25/multimodal-hoax-detection.git) | `October 2025`
+### [Multimodal Fake News Detection using Deep Learning](https://github.com/reynaldaryansyah25/multimodal-hoax-detection.git) | `October 2025`
    - Awarded 2nd Runner-Up in an AI Research / Data Mining Competition
    - Designed and developed an end-to-end multimodal deep learning system to classify political news using text, image, and audio
    - Utilized transformer and CNN architectures including IndoBERT, MobileNetV3-Small, and Wav2Vec2
@@ -24,7 +24,7 @@
    - Achieved 96% accuracy and 95.72% multimodal accuracy
    - Evaluated performance using Precision, Recall, F1-score, and Confusion Matrix
 
-### [Face Anti-Spoofing Challenge | Kaggle Competition](https://github.com/andriilaksono/face-anti-spoofing-detection.git) | `April 2026`
+#### [Face Anti-Spoofing Challenge | Kaggle Competition](https://github.com/andriilaksono/face-anti-spoofing-detection.git) | `April 2026`
    - Developed an end-to-end deep learning pipeline to detect facial spoofing attacks (printed photos, screens, 3D masks, mannequins)
    - Achieved Kaggle Public Score: 0.77257 and ~96.76% local validation accuracy
    - Applied robust face extraction using MTCNN with fallback center-cropping to handle occlusion and detection failures
@@ -45,17 +45,17 @@ Achieved performance metrics: MAE (22.83), RMSE (32.09), and R² (0.77), indicat
    - Analyzed model limitations and identified opportunities for improvement using advanced time-series approaches (e.g., LSTM)
    - Provided insights for real-world predictive maintenance to enhance operational efficiency and reduce downtime
 
-#### [ID/X Partners Data Scientist Internship](https://github.com/andriilaksono/Virtual-Internship-Data-Scientist-Rakamin-IDX-Partners-) | `February to March 2025`
-   - Successfully completed a project-based internship focused on data science in real business contexts
-   - Explored and applied concepts such as Big Data, Deep Learning, and Soft Skills in a collaborative environment
-   - Delivered data-driven insights to support decision-making in the field of risk and analytics
-
-#### [IBM Granite Data Classification & Summarization Project](https://github.com/andriilaksono/IMB-Granite-Data-Classification-Summirzation) | ` 26 & 28 August 2025`
+#### [IBM Granite Data Classification & Summarization Project](https://github.com/andriilaksono/IMB-Granite-Data-Classification-Summirzation) | `August 2025`
    - Developed a text analytics project using **IBM Granite** to classify and summarize consumer complaints in the financial sector.
    - Conducted **data cleaning** on more than 3 million complaint records, including text normalization and duplicate removal.
    - Applied **Logistic Regression, Random Forest, and IBM Granite (LLM)** to classify product categories and main issues.
    - Built visualizations of yearly complaint trends, product categories with the highest complaint volume, and keyword word clouds.
    - Delivered insights highlighting that most complaints were related to credit card products (hidden fees & interest rates), and provided policy recommendations for regulators and financial companies.
+
+### [ID/X Partners Data Scientist Internship](https://github.com/andriilaksono/Virtual-Internship-Data-Scientist-Rakamin-IDX-Partners-) | `February to March 2025`
+   - Successfully completed a project-based internship focused on data science in real business contexts
+   - Explored and applied concepts such as Big Data, Deep Learning, and Soft Skills in a collaborative environment
+   - Delivered data-driven insights to support decision-making in the field of risk and analytics
      
 #### [British Airways Data Science Job Simulation on Forage](https://github.com/andriilaksono/British-Airways-Data-Science-Job-Simulation-on-Forage) | ` December 2024 to January 2025`
    - Completed a simulation focusing on how data science is a critical component of British Airways success
