@@ -24,7 +24,17 @@
    - Achieved 96% accuracy and 95.72% multimodal accuracy
    - Evaluated performance using Precision, Recall, F1-score, and Confusion Matrix
 
-#### [Predictive Maintenance: RUL Prediction for Turbofan Engine using XGBoost](https://github.com/andriilaksono/predictive-maintenance-turbofan-rul.git) | `January 2025`
+### [Face Anti-Spoofing Challenge | Kaggle Competition](https://github.com/andriilaksono/face-anti-spoofing-detection.git) | `April 2026`
+   - Developed an end-to-end deep learning pipeline to detect facial spoofing attacks (printed photos, screens, 3D masks, mannequins)
+   - Achieved Kaggle Public Score: 0.77257 and ~96.76% local validation accuracy
+   - Applied robust face extraction using MTCNN with fallback center-cropping to handle occlusion and detection failures
+   - Designed Multi-Zoom Test Time Augmentation (TTA) to eliminate scale mismatch between training and test data
+   - Utilized pseudo-labeling and knowledge injection to reduce domain gap and improve generalization
+   - Applied threshold shifting strategy to handle class imbalance and dataset bias
+   - Trained models using Stratified K-Fold Cross Validation (5-fold) to improve robustness and prevent overfitting
+   - Organized project into modular pipelines (EDA, training, inference) for reproducibility and scalability
+
+#### [Predictive Maintenance: RUL Prediction for Turbofan Engine using XGBoost](https://github.com/andriilaksono/predictive-maintenance-turbofan-rul.git) | `January 2026`
    - Based on Final Project (Big Data & Data Mining – Universitas Amikom Yogyakarta)
    - Utilized NASA C-MAPSS (FD001) dataset containing multivariate time-series sensor data from 100 engine units
    - Performed end-to-end data pipeline including preprocessing, RUL labeling, normalization, and feature engineering
@@ -39,16 +49,19 @@ Achieved performance metrics: MAE (22.83), RMSE (32.09), and R² (0.77), indicat
    - Successfully completed a project-based internship focused on data science in real business contexts
    - Explored and applied concepts such as Big Data, Deep Learning, and Soft Skills in a collaborative environment
    - Delivered data-driven insights to support decision-making in the field of risk and analytics
-#### [British Airways Data Science Job Simulation on Forage](https://github.com/andriilaksono/British-Airways-Data-Science-Job-Simulation-on-Forage) | ` December 2024 to January 2025`
-   - Completed a simulation focusing on how data science is a critical component of British Airways success
-   - Scraped and analyzed customer review data to uncover findings
-   - Built a predictive model to understand factors that influence buying behavior.
-### [IBM Granite Data Classification & Summarization Project](https://github.com/andriilaksono/IMB-Granite-Data-Classification-Summirzation) | ` 26 & 28 August2025`
+
+#### [IBM Granite Data Classification & Summarization Project](https://github.com/andriilaksono/IMB-Granite-Data-Classification-Summirzation) | ` 26 & 28 August 2025`
    - Developed a text analytics project using **IBM Granite** to classify and summarize consumer complaints in the financial sector.
    - Conducted **data cleaning** on more than 3 million complaint records, including text normalization and duplicate removal.
    - Applied **Logistic Regression, Random Forest, and IBM Granite (LLM)** to classify product categories and main issues.
    - Built visualizations of yearly complaint trends, product categories with the highest complaint volume, and keyword word clouds.
    - Delivered insights highlighting that most complaints were related to credit card products (hidden fees & interest rates), and provided policy recommendations for regulators and financial companies.
+     
+#### [British Airways Data Science Job Simulation on Forage](https://github.com/andriilaksono/British-Airways-Data-Science-Job-Simulation-on-Forage) | ` December 2024 to January 2025`
+   - Completed a simulation focusing on how data science is a critical component of British Airways success
+   - Scraped and analyzed customer review data to uncover findings
+   - Built a predictive model to understand factors that influence buying behavior.
+     
 ---
 
 ### Languages and Tools:
