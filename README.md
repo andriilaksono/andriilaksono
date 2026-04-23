@@ -34,16 +34,13 @@
    - Trained models using Stratified K-Fold Cross Validation (5-fold) to improve robustness and prevent overfitting
    - Organized project into modular pipelines (EDA, training, inference) for reproducibility and scalability
 
-#### [Predictive Maintenance: RUL Prediction for Turbofan Engine using XGBoost](https://github.com/andriilaksono/predictive-maintenance-turbofan-rul.git) | `January 2026`
-   - Based on Final Project (Big Data & Data Mining – Universitas Amikom Yogyakarta)
-   - Utilized NASA C-MAPSS (FD001) dataset containing multivariate time-series sensor data from 100 engine units
-   - Performed end-to-end data pipeline including preprocessing, RUL labeling, normalization, and feature engineering
-   - Conducted in-depth Exploratory Data Analysis (EDA) to uncover degradation patterns and sensor behavior over time
-   - Applied correlation-based feature selection to reduce dimensionality and improve model efficiency
-Developed an XGBoost regression model to handle non-linear degradation patterns in engine data
-Achieved performance metrics: MAE (22.83), RMSE (32.09), and R² (0.77), indicating strong predictive capability
-   - Analyzed model limitations and identified opportunities for improvement using advanced time-series approaches (e.g., LSTM)
-   - Provided insights for real-world predictive maintenance to enhance operational efficiency and reduce downtime
+#### [Predictive Maintenance: RUL Prediction for Turbofan Engine using XGBoost](https://github.com/andriilaksono/rul-prediction-turbofan-cmapss.git) | `January 2026`
+  - Developed an end-to-end Predictive Maintenance (PdM) system to estimate the Remaining Useful Life (RUL) of aircraft engines using the NASA C-MAPSS dataset
+  - Conducted a comparative analysis between sequential Deep Learning   (LSTM) and tree-based Machine Learning (XGBoost) architectures on multivariate time-series sensor data
+  - Engineered temporal features using sliding window techniques (30-cycle sequences) and rolling statistics to capture   complex degradation patterns
+  - Achieved an $R^2$ score of 86.05% and drastically reduced the NASA Asymmetric Penalty Score from 843 to 349, proving the model's reliability in minimizing fatal late-prediction risks
+  - Applied Explainable AI (XAI) principles to identify critical failure indicators (e.g., LPT Outlet Temperature and HPC Static Pressure)
+  - Designed and deployed a comprehensive Fleet Monitoring Dashboard using Streamlit and Plotly, featuring real-time sensor normalization, RUL trajectories, and prescriptive maintenance action plans
 
 #### [IBM Granite Data Classification & Summarization Project](https://github.com/andriilaksono/IMB-Granite-Data-Classification-Summirzation) | `August 2025`
    - Developed a text analytics project using **IBM Granite** to classify and summarize consumer complaints in the financial sector.
