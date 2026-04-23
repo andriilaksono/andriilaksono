@@ -34,7 +34,7 @@
    - Trained models using Stratified K-Fold Cross Validation (5-fold) to improve robustness and prevent overfitting
    - Organized project into modular pipelines (EDA, training, inference) for reproducibility and scalability
 
-#### [Predictive Maintenance: RUL Prediction for Turbofan Engine using XGBoost](https://github.com/andriilaksono/rul-prediction-turbofan-cmapss.git) | `January 2026`
+#### [Predictive Maintenance: RUL Prediction for Turbofan Engine](https://github.com/andriilaksono/rul-prediction-turbofan-cmapss.git) | `April 2026`
   - Developed an end-to-end Predictive Maintenance (PdM) system to estimate the Remaining Useful Life (RUL) of aircraft engines using the NASA C-MAPSS dataset
   - Conducted a comparative analysis between sequential Deep Learning   (LSTM) and tree-based Machine Learning (XGBoost) architectures on multivariate time-series sensor data
   - Engineered temporal features using sliding window techniques (30-cycle sequences) and rolling statistics to capture   complex degradation patterns
