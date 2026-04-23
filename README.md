@@ -40,7 +40,6 @@
   - Engineered temporal features using sliding window techniques (30-cycle sequences) and rolling statistics to capture   complex degradation patterns
   - Achieved an $R^2$ score of 86.05% and drastically reduced the NASA Asymmetric Penalty Score from 843 to 349, proving the model's reliability in minimizing fatal late-prediction risks
   - Applied Explainable AI (XAI) principles to identify critical failure indicators (e.g., LPT Outlet Temperature and HPC Static Pressure)
-  - Designed and deployed a comprehensive Fleet Monitoring Dashboard using Streamlit and Plotly, featuring real-time sensor normalization, RUL trajectories, and prescriptive maintenance action plans
 
 #### [IBM Granite Data Classification & Summarization Project](https://github.com/andriilaksono/IMB-Granite-Data-Classification-Summirzation) | `August 2025`
    - Developed a text analytics project using **IBM Granite** to classify and summarize consumer complaints in the financial sector.
