@@ -35,11 +35,12 @@
    - Organized project into modular pipelines (EDA, training, inference) for reproducibility and scalability
 
 #### [Predictive Maintenance: RUL Prediction for Turbofan Engine](https://github.com/andriilaksono/rul-prediction-turbofan-cmapss.git) | `April 2026`
-  - Developed an end-to-end Predictive Maintenance (PdM) system to estimate the Remaining Useful Life (RUL) of aircraft engines using the NASA C-MAPSS dataset
-  - Conducted a comparative analysis between sequential Deep Learning   (LSTM) and tree-based Machine Learning (XGBoost) architectures on multivariate time-series sensor data
-  - Engineered temporal features using sliding window techniques (30-cycle sequences) and rolling statistics to capture   complex degradation patterns
-  - Achieved an $R^2$ score of 86.05% and drastically reduced the NASA Asymmetric Penalty Score from 843 to 349, proving the model's reliability in minimizing fatal late-prediction risks
-  - Applied Explainable AI (XAI) principles to identify critical failure indicators (e.g., LPT Outlet Temperature and HPC Static Pressure)
+  - Developed an end-to-end Predictive Maintenance (PdM) system to estimate the Remaining Useful Life (RUL) of aircraft engines across all four complexity subsets of the NASA C-MAPSS dataset
+  - Conducted a systematic comparative analysis between an attention-based Bidirectional LSTM (Bi-LSTM) and tree-based XGBoost architectures.
+  - Engineered a robust preprocessing pipeline including piecewise-linear RUL labeling with a 125-cycle threshold , condition-aware normalization via K-Means clustering for multi-condition data , and 30-cycle sliding-window sequence segmentation.
+  - Evaluated performance across varying operational scenarios; the Bi-LSTM model achieved a superior R² score of 0.864 and a NASA Asymmetric Score of 392.02 on the FD001 subset , while XGBoost demonstrated greater stability on the highly complex FD004 subset with an RMSE of 30.22.
+  - Applied advanced Explainable AI (XAI) techniques—SHAP TreeExplainer for XGBoost and Integrated Gradients for Bi-LSTM—to achieve model transparency.
+  - Successfully unpacked the "black box" of the models through local and global consensus analysis, identifying Ps30 (HPC static pressure), NRc, Nc, and BPR as the most reliable degradation indicators across varying operational conditions.
 
 #### [IBM Granite Data Classification & Summarization Project](https://github.com/andriilaksono/IMB-Granite-Data-Classification-Summirzation) | `August 2025`
    - Developed a text analytics project using **IBM Granite** to classify and summarize consumer complaints in the financial sector.
