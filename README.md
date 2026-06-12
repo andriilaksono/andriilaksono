@@ -50,9 +50,11 @@
    - Delivered insights highlighting that most complaints were related to credit card products (hidden fees & interest rates), and provided policy recommendations for regulators and financial companies.
 
 ### [ID/X Partners Data Scientist Internship](https://github.com/andriilaksono/Virtual-Internship-Data-Scientist-Rakamin-IDX-Partners-) | `February to March 2025`
-   - Successfully completed a project-based internship focused on data science in real business contexts
-   - Explored and applied concepts such as Big Data, Deep Learning, and Soft Skills in a collaborative environment
-   - Delivered data-driven insights to support decision-making in the field of risk and analytics
+   - Developed an end-to-end machine learning pipeline to predict borrower credit risk using a loan dataset containing 466K+ records and 74 features.
+   - Performed data understanding, feature engineering, missing value treatment, categorical encoding, and feature scaling to prepare data for modeling.
+   - Built and evaluated Logistic Regression, Random Forest, and Gradient Boosting models for credit risk classification.
+   - Identified class imbalance issues and assessed model performance using Accuracy, Precision, Recall, and ROC-AUC metrics.
+   - Achieved the best performance using Logistic Regression with a ROC-AUC score of 0.8345 for credit risk prediction.
      
 #### [British Airways Data Science Job Simulation on Forage](https://github.com/andriilaksono/British-Airways-Data-Science-Job-Simulation-on-Forage) | ` December 2024 to January 2025`
    - Completed a simulation focusing on how data science is a critical component of British Airways success
